@@ -1,0 +1,13 @@
+.content {
+	position: block;
+	height: auto;
+	width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: rgba(240, 240, 240, .5);
+	font-family: Futura;
+}
+
+header {
+	height: 270px;
+}
