@@ -8,6 +8,12 @@
 	font-family: Futura;
 }
 
+h1 {
+	font-family: Futura;
+	margin-top: 16px;
+	margin-bottom: 20px;
+}
+
 header {
 	height: 270px;
 }
